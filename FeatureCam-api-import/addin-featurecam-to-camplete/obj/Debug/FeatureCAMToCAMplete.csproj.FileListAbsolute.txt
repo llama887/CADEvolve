@@ -1,0 +1,11 @@
+C:\Users\daegy\source\repos\featurecam-api-examples\addin-featurecam-to-camplete\bin\Debug\FeatureCAMToCAMplete.dll
+C:\Users\daegy\source\repos\featurecam-api-examples\addin-featurecam-to-camplete\bin\Debug\FeatureCAMToCAMplete.pdb
+C:\Users\daegy\source\repos\featurecam-api-examples\addin-featurecam-to-camplete\bin\Debug\Interop.FeatureCAM.dll
+C:\Users\daegy\source\repos\featurecam-api-examples\addin-featurecam-to-camplete\obj\Debug\FeatureCAMToCAMplete.csproj.AssemblyReference.cache
+C:\Users\daegy\source\repos\featurecam-api-examples\addin-featurecam-to-camplete\obj\Debug\Interop.FeatureCAM.dll
+C:\Users\daegy\source\repos\featurecam-api-examples\addin-featurecam-to-camplete\obj\Debug\FeatureCAMToCAMplete.csproj.ResolveComReference.cache
+C:\Users\daegy\source\repos\featurecam-api-examples\addin-featurecam-to-camplete\obj\Debug\FeatureCAMToCAMplete.UI.resources
+C:\Users\daegy\source\repos\featurecam-api-examples\addin-featurecam-to-camplete\obj\Debug\FeatureCAMToCAMplete.csproj.GenerateResource.cache
+C:\Users\daegy\source\repos\featurecam-api-examples\addin-featurecam-to-camplete\obj\Debug\FeatureCAMToCAMplete.csproj.CoreCompileInputs.cache
+C:\Users\daegy\source\repos\featurecam-api-examples\addin-featurecam-to-camplete\obj\Debug\FeatureCAMToCAMplete.dll
+C:\Users\daegy\source\repos\featurecam-api-examples\addin-featurecam-to-camplete\obj\Debug\FeatureCAMToCAMplete.pdb

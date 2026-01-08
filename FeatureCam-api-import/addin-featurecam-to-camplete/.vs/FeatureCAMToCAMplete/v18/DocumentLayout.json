@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daegy\\source\\repos\\featurecam-api-examples\\addin-featurecam-to-camplete\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE920807-A5BF-4FE5-A0CF-20AF0BEB44C9}|FeatureCAMToCAMplete.csproj|c:\\users\\daegy\\source\\repos\\featurecam-api-examples\\addin-featurecam-to-camplete\\sourcecode\\fctocamplete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE920807-A5BF-4FE5-A0CF-20AF0BEB44C9}|FeatureCAMToCAMplete.csproj|solutionrelative:sourcecode\\fctocamplete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE920807-A5BF-4FE5-A0CF-20AF0BEB44C9}|FeatureCAMToCAMplete.csproj|C:\\Users\\daegy\\source\\repos\\featurecam-api-examples\\addin-featurecam-to-camplete\\sourcecode\\variables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE920807-A5BF-4FE5-A0CF-20AF0BEB44C9}|FeatureCAMToCAMplete.csproj|solutionrelative:sourcecode\\variables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE920807-A5BF-4FE5-A0CF-20AF0BEB44C9}|FeatureCAMToCAMplete.csproj|C:\\Users\\daegy\\source\\repos\\featurecam-api-examples\\addin-featurecam-to-camplete\\sourcecode\\lib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE920807-A5BF-4FE5-A0CF-20AF0BEB44C9}|FeatureCAMToCAMplete.csproj|solutionrelative:sourcecode\\lib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE920807-A5BF-4FE5-A0CF-20AF0BEB44C9}|FeatureCAMToCAMplete.csproj|C:\\Users\\daegy\\source\\repos\\featurecam-api-examples\\addin-featurecam-to-camplete\\sourcecode\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE920807-A5BF-4FE5-A0CF-20AF0BEB44C9}|FeatureCAMToCAMplete.csproj|solutionrelative:sourcecode\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE920807-A5BF-4FE5-A0CF-20AF0BEB44C9}|FeatureCAMToCAMplete.csproj|C:\\Users\\daegy\\source\\repos\\featurecam-api-examples\\addin-featurecam-to-camplete\\sourcecode\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE920807-A5BF-4FE5-A0CF-20AF0BEB44C9}|FeatureCAMToCAMplete.csproj|solutionrelative:sourcecode\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE920807-A5BF-4FE5-A0CF-20AF0BEB44C9}|FeatureCAMToCAMplete.csproj|C:\\Users\\daegy\\source\\repos\\featurecam-api-examples\\addin-featurecam-to-camplete\\sourcecode\\ui.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CE920807-A5BF-4FE5-A0CF-20AF0BEB44C9}|FeatureCAMToCAMplete.csproj|solutionrelative:sourcecode\\ui.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE920807-A5BF-4FE5-A0CF-20AF0BEB44C9}|FeatureCAMToCAMplete.csproj|C:\\Users\\daegy\\source\\repos\\featurecam-api-examples\\addin-featurecam-to-camplete\\sourcecode\\ui.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE920807-A5BF-4FE5-A0CF-20AF0BEB44C9}|FeatureCAMToCAMplete.csproj|solutionrelative:sourcecode\\ui.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE920807-A5BF-4FE5-A0CF-20AF0BEB44C9}|FeatureCAMToCAMplete.csproj|C:\\Users\\daegy\\source\\repos\\featurecam-api-examples\\addin-featurecam-to-camplete\\sourcecode\\tool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE920807-A5BF-4FE5-A0CF-20AF0BEB44C9}|FeatureCAMToCAMplete.csproj|solutionrelative:sourcecode\\tool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE920807-A5BF-4FE5-A0CF-20AF0BEB44C9}|FeatureCAMToCAMplete.csproj|C:\\Users\\daegy\\source\\repos\\featurecam-api-examples\\addin-featurecam-to-camplete\\sourcecode\\ui.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{CE920807-A5BF-4FE5-A0CF-20AF0BEB44C9}|FeatureCAMToCAMplete.csproj|solutionrelative:sourcecode\\ui.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lib.cs",
+              "DocumentMoniker": "C:\\Users\\daegy\\source\\repos\\featurecam-api-examples\\addin-featurecam-to-camplete\\SourceCode\\Lib.cs",
+              "RelativeDocumentMoniker": "SourceCode\\Lib.cs",
+              "ToolTip": "C:\\Users\\daegy\\source\\repos\\featurecam-api-examples\\addin-featurecam-to-camplete\\SourceCode\\Lib.cs",
+              "RelativeToolTip": "SourceCode\\Lib.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAASwB0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T08:19:55.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UI.cs",
+              "DocumentMoniker": "C:\\Users\\daegy\\source\\repos\\featurecam-api-examples\\addin-featurecam-to-camplete\\SourceCode\\UI.cs",
+              "RelativeDocumentMoniker": "SourceCode\\UI.cs",
+              "ToolTip": "C:\\Users\\daegy\\source\\repos\\featurecam-api-examples\\addin-featurecam-to-camplete\\SourceCode\\UI.cs",
+              "RelativeToolTip": "SourceCode\\UI.cs",
+              "ViewState": "AgIAAPgAAAAAAAAAAADwv8MBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T22:07:23.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UI.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\daegy\\source\\repos\\featurecam-api-examples\\addin-featurecam-to-camplete\\SourceCode\\UI.cs",
+              "RelativeDocumentMoniker": "SourceCode\\UI.cs",
+              "ToolTip": "C:\\Users\\daegy\\source\\repos\\featurecam-api-examples\\addin-featurecam-to-camplete\\SourceCode\\UI.cs [Design]",
+              "RelativeToolTip": "SourceCode\\UI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T22:05:58.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FCToCAMplete.cs",
+              "DocumentMoniker": "C:\\Users\\daegy\\source\\repos\\featurecam-api-examples\\addin-featurecam-to-camplete\\SourceCode\\FCToCAMplete.cs",
+              "RelativeDocumentMoniker": "SourceCode\\FCToCAMplete.cs",
+              "ToolTip": "C:\\Users\\daegy\\source\\repos\\featurecam-api-examples\\addin-featurecam-to-camplete\\SourceCode\\FCToCAMplete.cs",
+              "RelativeToolTip": "SourceCode\\FCToCAMplete.cs",
+              "ViewState": "AgIAAGYGAAAAAAAAAAAAAIAGAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T22:00:58.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Variables.cs",
+              "DocumentMoniker": "C:\\Users\\daegy\\source\\repos\\featurecam-api-examples\\addin-featurecam-to-camplete\\SourceCode\\Variables.cs",
+              "RelativeDocumentMoniker": "SourceCode\\Variables.cs",
+              "ToolTip": "C:\\Users\\daegy\\source\\repos\\featurecam-api-examples\\addin-featurecam-to-camplete\\SourceCode\\Variables.cs",
+              "RelativeToolTip": "SourceCode\\Variables.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAmwHIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T08:20:12.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tool.cs",
+              "DocumentMoniker": "C:\\Users\\daegy\\source\\repos\\featurecam-api-examples\\addin-featurecam-to-camplete\\SourceCode\\Tool.cs",
+              "RelativeDocumentMoniker": "SourceCode\\Tool.cs",
+              "ToolTip": "C:\\Users\\daegy\\source\\repos\\featurecam-api-examples\\addin-featurecam-to-camplete\\SourceCode\\Tool.cs",
+              "RelativeToolTip": "SourceCode\\Tool.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T22:57:57.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UI.resx",
+              "DocumentMoniker": "C:\\Users\\daegy\\source\\repos\\featurecam-api-examples\\addin-featurecam-to-camplete\\SourceCode\\UI.resx",
+              "RelativeDocumentMoniker": "SourceCode\\UI.resx",
+              "ToolTip": "C:\\Users\\daegy\\source\\repos\\featurecam-api-examples\\addin-featurecam-to-camplete\\SourceCode\\UI.resx",
+              "RelativeToolTip": "SourceCode\\UI.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKocAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-01T05:23:58.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UI.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\daegy\\source\\repos\\featurecam-api-examples\\addin-featurecam-to-camplete\\SourceCode\\UI.Designer.cs",
+              "RelativeDocumentMoniker": "SourceCode\\UI.Designer.cs",
+              "ToolTip": "C:\\Users\\daegy\\source\\repos\\featurecam-api-examples\\addin-featurecam-to-camplete\\SourceCode\\UI.Designer.cs",
+              "RelativeToolTip": "SourceCode\\UI.Designer.cs",
+              "ViewState": "AgIAAKEBAAAAAAAAAAAAAM4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T22:06:17.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UI.resx",
+              "DocumentMoniker": "C:\\Users\\daegy\\source\\repos\\featurecam-api-examples\\addin-featurecam-to-camplete\\SourceCode\\UI.resx",
+              "RelativeDocumentMoniker": "SourceCode\\UI.resx",
+              "ToolTip": "C:\\Users\\daegy\\source\\repos\\featurecam-api-examples\\addin-featurecam-to-camplete\\SourceCode\\UI.resx",
+              "RelativeToolTip": "SourceCode\\UI.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-12-31T22:06:21.355Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
