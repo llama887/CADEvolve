@@ -5,6 +5,10 @@ from onshape_client.client import Client
 from pathlib import Path
 import time
 import pprint
+from dotenv import load_dotenv
+
+ROOT = Path(__file__).resolve().parents[1]  # repo root
+load_dotenv(ROOT / ".env")
 
 BASE_URL = "https://cad.onshape.com"  # change if your Onshape domain is different
 
