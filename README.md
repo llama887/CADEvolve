@@ -1,5 +1,9 @@
 # Onshape ↔ FeatureCAM Import / Export Tooling
 
+# LLM To Do
+1. Change parameters in existing features
+2. Add new fillets
+
 This repository contains two coordinated components used in an Onshape → FeatureCAM workflow:
 
 1. **Python script (`Export_test.py`)**  
